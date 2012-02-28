@@ -1,0 +1,1 @@
+Source: tmp/1261411772631.jpg   Dest: /htdocs/upload_test/1261411772631.jpg   Status: FTP succeeded   Status 2: Connected
